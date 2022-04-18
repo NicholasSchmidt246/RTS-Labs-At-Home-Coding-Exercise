@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32113.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RTS Labs At Home Coding Exercise", "RTS Labs At Home Coding Exercise\RTS Labs At Home Coding Exercise.csproj", "{8346ECAD-4DCA-44C3-86B6-09293D739364}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RTS Labs At Home Coding Exercise Tests", "RTS Labs At Home Coding Exercise Tests\RTS Labs At Home Coding Exercise Tests.csproj", "{BF07DBAA-66FB-4932-B485-AC8E8D34D6EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8346ECAD-4DCA-44C3-86B6-09293D739364}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8346ECAD-4DCA-44C3-86B6-09293D739364}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8346ECAD-4DCA-44C3-86B6-09293D739364}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8346ECAD-4DCA-44C3-86B6-09293D739364}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF07DBAA-66FB-4932-B485-AC8E8D34D6EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF07DBAA-66FB-4932-B485-AC8E8D34D6EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF07DBAA-66FB-4932-B485-AC8E8D34D6EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF07DBAA-66FB-4932-B485-AC8E8D34D6EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5461F3FE-49CF-4C08-89EA-658D53D3077F}
+	EndGlobalSection
+EndGlobal
